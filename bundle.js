@@ -472,7 +472,7 @@ function(e,A,t){var n=t(/*! !../../../node_modules/css-loader!../../../node_modu
   \********************************************************************************************************************************/
 /*! dynamic exports provided */
 /*! all exports used */
-function(e,A,t){A=e.exports=t(/*! ../../../node_modules/css-loader/lib/css-base.js */8)(!1),A.push([e.i,"table#transientstable{border-collapse:collapse;margin-top:10px}table#transientstable tr:not(.header):hover{cursor:pointer;background-color:#d3d3d3}table#transientstable tr.selected{background-color:rgba(0,78,87,.4)}table#transientstable tr.header td{text-align:left;font-weight:700}table#transientstable tr td{padding:5px;padding-left:20px;padding-right:20px;border-bottom:1px solid #d3d3d3;font-size:16px;text-align:right;color:#141414;text-shadow:0 0 1px hsla(0,0%,4%,.1)}",""])},/*!******************************************!*\
+function(e,A,t){A=e.exports=t(/*! ../../../node_modules/css-loader/lib/css-base.js */8)(!1),A.push([e.i,"table#transientstable{border-collapse:collapse;margin-top:10px}table#transientstable tr:not(.header):hover{cursor:pointer;background-color:#dcdcdc}table#transientstable tr.selected{background-color:#d3d3d3}table#transientstable tr.header td{text-align:left;font-weight:700}table#transientstable tr td{padding:5px;padding-left:20px;padding-right:20px;border-bottom:1px solid #dcdcdc;font-size:16px;text-align:right;color:#141414;text-shadow:0 0 1px hsla(0,0%,4%,.1)}",""])},/*!******************************************!*\
   !*** ./src/components/misc/spinner.sass ***!
   \******************************************/
 /*! dynamic exports provided */
